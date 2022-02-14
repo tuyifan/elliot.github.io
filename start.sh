@@ -1,0 +1,2 @@
+echo "started`
+docsify serve
